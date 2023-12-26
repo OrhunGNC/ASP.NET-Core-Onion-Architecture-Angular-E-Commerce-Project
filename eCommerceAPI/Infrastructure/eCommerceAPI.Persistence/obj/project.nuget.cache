@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DMWJdKDJKKG8IGrlqKzKF5la8hyDNUFF1q6+PAN1Xv9DMHwG7qoxwz+bcuG02QPc/MK1cha0VC7iCIAjgE0Vlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Orhun\\Desktop\\e-commerce\\ASP.NET-Core-Onion-Architecture-Angular-E-Commerce-Project\\eCommerceAPI\\Infrastructure\\eCommerceAPI.Persistence\\eCommerceAPI.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

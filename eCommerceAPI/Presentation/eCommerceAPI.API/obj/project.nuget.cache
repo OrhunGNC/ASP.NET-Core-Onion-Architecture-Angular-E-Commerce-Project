@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOFr4V/Q/Ul4dbUpKekFXwX42A7LIvofJi75lmsoVsMD1/kLJMEiymL9ZQSOmNu494DixNAxckJjofmzqGwTRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Orhun\\Desktop\\e-commerce\\ASP.NET-Core-Onion-Architecture-Angular-E-Commerce-Project\\eCommerceAPI\\Presentation\\eCommerceAPI.API\\eCommerceAPI.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
