@@ -28,3 +28,4 @@ C:\Users\Orhun\Desktop\e-commerce\ASP.NET-Core-Onion-Architecture-Angular-E-Comm
 C:\Users\Orhun\Desktop\e-commerce\ASP.NET-Core-Onion-Architecture-Angular-E-Commerce-Project\eCommerceAPI\Core\eCommerceAPI.Application\obj\Debug\net6.0\refint\eCommerceAPI.Application.dll
 C:\Users\Orhun\Desktop\e-commerce\ASP.NET-Core-Onion-Architecture-Angular-E-Commerce-Project\eCommerceAPI\Core\eCommerceAPI.Application\obj\Debug\net6.0\eCommerceAPI.Application.pdb
 C:\Users\Orhun\Desktop\e-commerce\ASP.NET-Core-Onion-Architecture-Angular-E-Commerce-Project\eCommerceAPI\Core\eCommerceAPI.Application\obj\Debug\net6.0\ref\eCommerceAPI.Application.dll
+C:\Users\Orhun\Desktop\e-commerce\ASP.NET-Core-Onion-Architecture-Angular-E-Commerce-Project\eCommerceAPI\Core\eCommerceAPI.Application\obj\Debug\net6.0\eCommerceAPI.Application.sourcelink.json
